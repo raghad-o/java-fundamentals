@@ -21,6 +21,7 @@ This project is an Object-Oriented Programming system that models a school struc
 ## UML Diagram
 ![School System Diagram](diagram.png)
 
-
-## Author
-Raghad
+## Team Members
+- Raghad Oteef
+- @wejdan-h (Wejdan Hakami)
+- @Aryam-Z (Aryam Zalaei)
