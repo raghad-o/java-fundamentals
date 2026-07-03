@@ -19,7 +19,7 @@ This project is an Object-Oriented Programming system that models a school struc
 - Method overriding (if applied)
 
 ## UML Diagram
-![School System Diagram](SCHOOL-MANAGEMENT-SYSTEM/diagram.png)
+![School System Diagram](diagram.png)
 
 
 ## Author
