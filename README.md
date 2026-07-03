@@ -1,20 +1,19 @@
 # Java Fundamentals
-This repository contains a set of Java programming exercises completed during the early stage of learning Java.
+This repository contains a collection of Java programming exercises completed gradually during the early stages of learning Java.
 
 ## Topics Covered
 - Basic Input and Output
-- Loops 
-- Arrays
-- Recursion
+- Variables and Data Types
+- Loops
+- Methods
+- Arrays (1D & 2D)
 - Object-Oriented Programming (OOP)
 
 ## Projects Included
 1. Product of Three Numbers
-2. Fibonacci Sequence (Recursive and Iterative)
-3. Array Operations 
-4. OOP Project (SCHOOL MANAGEMENT SYSTEM)
+2. Reverse Array Order
+3. Matrix Column Sum
+4. School Management System (OOP Project)
 
 ## Purpose
-This repository is part of my learning journey in Java programming and will serve as a foundation for more advanced projects in the future.
-
-Created by: Raghad
+This repository represents my learning journey in Java, starting from basic programming concepts and gradually progressing to object-oriented design.
